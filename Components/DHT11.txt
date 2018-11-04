@@ -1,0 +1,51 @@
+DHT11 digital temperature and humidity sensor is a digital signal output with a calibrated temperature and humidity compound sensor. It is application specific digital module acquisition technology and the temperature and humidity sensing technology, ensure that the product has high reliability and excellent long-term stability, signal transmission, low cost, relative humidity and temperature measurement, fast response, strong anti-interference ability, long distance, digital signal output, accurate calibration. The sensor includes a resistance type humidity sensitive element and a NTC temperature sensor, and is connected with a high performance 8 bit microcontroller. Can be used for HVAC, dehumidifier, test and inspection equipment, consumer goods, automotive, automatic control, data recorder, weather station, home appliance, humidity regulator, medical, other relative humidity control.
+
+Product parameters
+
+Relative humidity
+
+Resolution: 16Bit
+
+Repeat: ± 1%RH
+
+Accuracy: 25 ? ± 5%RH
+
+Exchangeability: fully interchangeable
+
+Response time: 1/e (63%): 25 ? 6S
+
+1m/s air 6S
+
+Hysteresis: < ± 0.3%RH
+
+Long term stability: < ± 0.5%RH/yr
+
+Temperature
+
+Resolution: 16Bit
+
+Repeat: ± 1 ?
+
+Accuracy: 25 ± 2 ?
+
+The response time of 1/e (63%): 10S
+
+Electrical characteristics
+
+Power supply: DC 3.3 ~ 5.5V
+
+Power supply: 0.3mA standby current of 60 µ A measurement
+
+The sampling period: time more than 2 seconds
+
+Pinout
+
+1, VDD power supply 3.3 ~ 5.5V DC
+
+2, the DATA serial data, single bus
+
+3, NC air feet
+
+4, GND ground, the cathode of the power supply
+
+Package contains 1 Pc of DHT 11
