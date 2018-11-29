@@ -9,3 +9,12 @@ i2c Library-Arduino Inc
 DHT-11 Library-Arduino Inc
 DS3231 Library-Arduino Inc
 SD Library-Arduino Inc
+![Screenshot](Circuit1.jpg)
+![Screenshot](Circuit2.jpg)
+![Screenshot](Circuit3.jpg)
+![Screenshot](Connection sd card.PNG)
+![Screenshot](Sd to nano.png)
+![Screenshot](dht11-circuit-arduino.jpg)
+![Screenshot](sd to nano 1.jpg)
+
+
